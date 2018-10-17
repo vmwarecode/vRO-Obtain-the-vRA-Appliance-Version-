@@ -1,1 +1,0 @@
-# vRO-Obtain-the-vRA-Appliance-Version-
